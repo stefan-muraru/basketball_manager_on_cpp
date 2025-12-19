@@ -6,7 +6,7 @@ Applicazione console per la gestione di una squadra di basket.
 Permette di inserire giocatori e salvare le statistiche su file di testo.
 
 ## Compilazione
-g++ main.cpp giocatore.cpp -o basket
+g++ main.cpp giocatore.cpp basket_manager.cpp -o basket
 
 ## Funzionalità
 - Inserimento giocatori
