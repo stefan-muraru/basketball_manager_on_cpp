@@ -1,2 +1,14 @@
-# basketball_manager_on_cpp
-un manager di una squadra da basket che utilizza un file esterno rinominato "giocatori.txt" per salvare i giocatori
+## This project is licensed under CC BY-NC 4.0 — non-commercial use only.
+
+# Basket Manager - C++
+
+Applicazione console per la gestione di una squadra di basket.
+Permette di inserire giocatori e salvare le statistiche su file di testo.
+
+## Compilazione
+g++ main.cpp giocatore.cpp -o basket
+
+## Funzionalità
+- Inserimento giocatori
+- Visualizzazione dati
+- Salvataggio persistente
